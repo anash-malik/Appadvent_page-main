@@ -526,7 +526,7 @@ export default function Home() {
               <h3 className="text-[18px] lg:text-[16px] font-bold text-[#0F054F] mb-4">Connect with social link</h3>
               <div className="grid grid-cols-2 gap-2 md:gap-4 lg:flex-col lg:space-y-3 lg:gap-0 text-[14px] md:text-[15px] lg:text-[13px] text-[#0F054F] capitalize">
                 <a href="https://www.linkedin.com/company/appadvent-technologies/posts/?feedView=all" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 w-fit hover:text-blue-600 transition-colors"><Image src="/linkedin.png" alt="" width={20} height={20} />linkedin</a>
-                <a href="https://x.com/appadventtech" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 w-fit hover:text-blue-600 transition-colors"><Image src="/X.png" alt="" width={20} height={20} />X</a>
+                <a href="https://x.com/appadventtech" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 w-fit hover:text-blue-600 transition-colors"><Image src="/x.png" alt="" width={20} height={20} />X</a>
                 <a href="https://www.facebook.com/appadventtechnologies/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 w-fit hover:text-blue-600 transition-colors"><Image src="/facebook.png" alt="" width={20} height={20} />Facebook</a>
                 <a href=" https://www.instagram.com/appadvent_technologies/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 w-fit hover:text-blue-600 transition-colors"><Image src="/instagram.png" alt="" width={20} height={20} />Instagram</a>
               </div>
